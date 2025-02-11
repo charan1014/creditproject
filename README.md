@@ -50,12 +50,6 @@ langdetect
 
 ## How to Run
 
-### Clone the Repository:
-```bash
-git clone https://github.com/Anilkumar322/AI-Predictive-Methods-for-Credit-underwriting.git
-cd AI-Predictive-Methods-for-Credit-underwriting
-```
-
 ### Install Dependencies:
 ```bash
 pip install -r requirements.txt
@@ -104,7 +98,7 @@ The app provides the following input fields in the sidebar:
 ## Deployment
 
 The application is live and can be accessed at:
-[AI Predictive Methods for Credit Underwriting](https://ai-predictive-methods-for-credit-underwriting-csu8gym5fctrsyru.streamlit.app/)
+[AI Predictive Methods for Credit Underwriting](https://creditproject10144444.streamlit.app/)
 
 To deploy the app on **Streamlit Cloud**:
 
