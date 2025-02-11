@@ -131,9 +131,7 @@ Ensure you have a Unicode-compatible font (e.g., `FreeSerif.ttf`) in your workin
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ## Contributors
-
-- **Bollapalli Anil Kumar** (Developer)
-- [GitHub Profile](https://github.com/Anilkumar322)
+- **Shiva Charan Reddy**(Developer)
 
 ## Feedback
 
